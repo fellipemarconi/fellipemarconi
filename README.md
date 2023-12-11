@@ -1,5 +1,5 @@
 ### I've always been interested in working with computers and when I learned about programming, my life changed completely. Since then, I've been developing my skills to become a professional in the field, seeking constant evolution.
-<a href="https://www.linkedin.com/in/leonardo-moretti-1280381b9/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="linkedin.com/in/fellipe-marconi-120b79237/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellipemarconi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellipemarconi&layout=compact&langs_count=7&theme=dracula"/>
