@@ -1,5 +1,5 @@
 ```python
-import Developer;
+import Developer
 
 class AboutMe(Developer):
   name = "Fellipe Marconi"
