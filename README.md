@@ -8,7 +8,7 @@ class AboutMe(Developer):
 
 class Skills(Developer):
   languages = ["Python"]
-  frameworks = ["Django"]
+  frameworks = ["Django", "Django Rest Framework"]
   data_bases = ["PostgreSQL", "SQLite", "MySQL", "MongoDB"]
   tools = ["Docker", "Git", "Linux"]
 ```
