@@ -1,4 +1,4 @@
-<img align="left" src="">
+<img align="left" src="https://raw.githubusercontent.com/fellipemarconi/fellipemarconi/main/assets/gif.gif">
 
 ### Hey!
 
