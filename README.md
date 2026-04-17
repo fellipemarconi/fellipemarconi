@@ -1,15 +1,11 @@
-```python
-import Developer
+<img align="left" src="">
 
-class AboutMe(Developer):
-  name = "Fellipe Marconi"
-  stack = "Back-End Developer"
-  english_lvl = "Intermediate - B2"
+### Hey!
 
-class Skills(Developer):
-  languages = ["Python", "TypeScript"]
-  frameworks = ["Django", "SvelteKit"]
-  data_bases = ["PostgreSQL", "SQLite", "MongoDB", "Redis"]
-  tools = ["Docker", "Git", "Linux", "Aws"]
-```
-<a href="https://www.linkedin.com/in/fellipe-marconi-120b79237/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+👾 Software developer
+
+🧠 building in go. living in the terminal.
+
+"stay low. keep building."
+
+
