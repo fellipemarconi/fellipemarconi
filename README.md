@@ -1,11 +1,11 @@
-<img align="left" src="">
+<img align="left" src="https://raw.githubusercontent.com/fellipemarconi/fellipemarconi/main/assets/gif.gif" width="180px">
 
 ### Hey!
 
-👾 Software developer
+👾 software developer  
 
-🧠 building in go. living in the terminal.
+🧠 building in go. living in the terminal.  
 
-"stay low. keep building."
+> stay low. keep building.
 
-
+<br><br><br><br>
