@@ -1,11 +1,14 @@
-<img align="left" src="https://raw.githubusercontent.com/fellipemarconi/fellipemarconi/main/assets/gif.gif" width="180px">
+<img align="left" src="https://raw.githubusercontent.com/fellipemarconi/fellipemarconi/main/assets/space.gif" width="220px">
 
-### Hey!
+### &nbsp;&nbsp;&nbsp;Hey!
 
-👾 software developer  
+&nbsp;&nbsp;&nbsp;&nbsp;👾 software developer  
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 building in go. living in the terminal.  
+&nbsp;&nbsp;&nbsp;&nbsp;⌨️ stay low. keep building.
 
-🧠 building in go. living in the terminal.  
+&nbsp;&nbsp;&nbsp;&nbsp;[![linkedin](https://img.shields.io/badge/linkedin-fellipemarconi-313131?style=flat&labelColor=545454&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fellipe-marconi-120b79237/)
 
-> stay low. keep building.
-
-<br><br><br><br>
+<br>
+<br>
+<br>
+<br>
